@@ -60,8 +60,6 @@ $movie3->isRecent(2010);
         </div>
 
     </div>
-    <script defer src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
-    <script defer src="./assets/scripts/script.js" rel="text/javascript"></script>
 </body>
 
 </html>
